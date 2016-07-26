@@ -1,6 +1,6 @@
 
 
-## `random-strings-0.1.0.0`
+## `random-strings-0.1.1.0`
 
 A simple way to generate random strings for testing and benchmarking.
 
