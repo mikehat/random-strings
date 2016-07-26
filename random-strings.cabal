@@ -37,7 +37,7 @@ source-repository this
     type:               git
     location:           git://github.com/mikehat/random-strings.git
     branch:             master
-    tag:                0.1
+    tag:                0.1.1.0
 
 library
 
